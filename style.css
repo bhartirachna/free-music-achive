@@ -1,0 +1,404 @@
+.navbar-code {
+  padding: 1px;
+  width: 80%;
+  height: 3.8rem;
+  margin-left: 75px;
+  position: fixed;
+  top: 10px;
+  background-color: #fff;
+}
+.navbar-img {
+  width: 10%;
+}
+
+.first-container {
+  text-align: center;
+  position: relative;
+  bottom: 5px;
+}
+.title-tag {
+  margin-top: 140px;
+  color: #767676;
+  font-weight: 800;
+  font-family: "Raleway", sans-serif;
+  font-size: 2.5rem;
+}
+.code-1div {
+  color: #767676;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  font-style: normal;
+  line-height: 1.6;
+}
+
+.code-2div {
+  color: #767676;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  font-style: normal;
+  line-height: 1.6;
+}
+.search-container {
+  height: 280px;
+  text-align: center;
+  margin-bottom: 150px;
+}
+.first-search {
+  text-align: left;
+  margin-left: 80px;
+  position: relative;
+  left: 150px;
+}
+.second-search {
+  position: relative;
+  bottom: 300px;
+  left: 150px;
+}
+.search-glass {
+  color: #ff6600;
+  font-weight: bold;
+  margin-left: 100px;
+}
+.search2-glass {
+  margin-left: 200px;
+}
+
+.glass {
+  font-size: 7em;
+  color: #ff6600;
+}
+
+strong {
+  font-weight: bold;
+  color: #ff6600;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+}
+.code-paragraph {
+  color: #767676;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  font-style: normal;
+  line-height: 1.4;
+  width: 30%;
+}
+.paragraph {
+  color: #767676;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  font-style: normal;
+  line-height: 1.4;
+  width: 55%;
+}
+.second-paragraph {
+  margin-left: 560px;
+}
+/* card-section */
+.card-body {
+  background-color: #efefef;
+  height: 550px;
+}
+.card-title {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #232323;
+  padding-top: 10px;
+}
+.second-card-title {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #232323;
+  padding-top: 10px;
+}
+.third-card-title {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #232323;
+  padding-top: 10px;
+}
+
+.first-card {
+  background-color: #fff;
+  height: 350px;
+  width: 26%;
+  margin-left: 90px;
+  position: relative;
+  top: 95px;
+}
+.play-paragraph {
+  margin-left: 20px;
+  height: 45px;
+
+}
+.second-card {
+  background-color: #fff;
+  height: 350px;
+  width: 26%;
+  margin-left: 470px;
+  position: relative;
+  bottom: 258px;
+}
+.third-card {
+  background-color: #fff;
+  height: 350px;
+  width: 95%;
+  position: relative;
+  margin-left: 380px;
+  bottom: 315px;
+}
+.card-paragraph {
+  color: #777;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  text-align: left;
+  font-style: normal;
+  font-weight: 400;
+}
+hr {
+  color: #b7b7b7;
+  line-height: 0;
+  width: 85%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.paragraph-body {
+  background-color: #2e2e2e;
+  height: 580px;
+  width: 390%;
+  position: relative;
+  right: 480px;
+  bottom: 234px;
+}
+.hr {
+  text-align: center;
+  width: 15%;
+  height: 2px;
+  background-color: #fff;
+  color: #ffffff;
+}
+.first-line {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  line-height: 35px;
+
+  text-align: center;
+
+  color: #ffffff;
+  width: 55%;
+  margin-left: 300px;
+}
+.second-line {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  color: #ffffff;
+  width: 50%;
+  margin-left: 300px;
+   line-height: 35px;
+}
+.third-line {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  color: #ffffff;
+  width: 55%;
+  margin-left: 300px;
+   line-height: 35px;
+}
+
+.bold {
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.well-img{
+    width: 400% ;
+    height: 550px ;
+    position: relative;
+    right:500px;
+    bottom: 234px;
+}
+.media-container{
+   background-color:  #1d2226;
+  height: 650px;
+  width: 450%;
+  position: relative;
+  right: 478px;
+  bottom: 257px;
+}
+
+.hr-white{
+    color: #fff;
+  line-height: 2px;
+  width: 70%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 10px;
+  margin-left: 80px;
+ 
+  border-top: 1px solid rgba(253, 249, 249, 0.1);
+}
+.p-white{
+    text-align: left;
+    color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.1rem;
+  margin-left: 80px;
+  bottom: 500px;
+}
+.info{
+  font-family: "Open Sans", sans-serif;
+  color: #ff6600;  
+  
+    font-size: 1rem;
+}
+
+
+.first-media{
+    text-align: left;
+margin-left: 100px;
+position: relative;
+top: 100px;
+}
+
+.second-media{
+text-align: center;
+margin-right: 400px;
+position: relative;
+bottom:30px;
+}
+.third-media{
+text-align: left;
+position: relative;
+left: 900px;
+bottom:330px;
+
+
+}
+.info-paragraph{
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-weight: 400;
+    width: 15%;
+    line-height:25px;
+ 
+}
+.FMA-paragraph{
+font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-weight: 400;
+    width: 27%;
+    text-align: left;
+    margin-left: 395px;
+    font-size: 1rem;
+    font-style: normal;
+    line-height: 1.6;
+    
+}
+.Music-paragraph{
+font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-weight: 400;
+    width: 20%;
+   text-align: left;
+     font-size: 1rem;
+    font-style: normal;
+    line-height: 1.6;
+
+}
+
+.anker{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+  color: #ff6600; 
+  bottom: 80px;
+}
+
+.end-container{
+    position: relative;
+    bottom: 150px;
+}
+
+.anitter{
+    position: relative;
+    bottom: 130px;
+    left: 215px;
+}
+.twitter{
+    color:gray  ;
+margin-right:100px ;
+}
+
+.end-line{
+    bottom: 40px;
+    position: relative;
+    bottom: 70px;
+}
+
+
+
+
+
+/* .searchtap{
+  font-size: 7em;
+   color: #ff6600;
+   
+} */
+
+/* .paragraphdiv{
+    color: #767676;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    font-style: normal;
+    line-height: 1.4;
+} */
+/* }
+.search-container{
+padding: 10px;
+ color: #ff6600;
+margin-right: 50px;
+} */
+/* .second-paragraphdiv{
+    color: #767676;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    font-style: normal;
+    line-height: 1.4;
+}
+
+
+
+ strong {
+    font-weight: bold;
+    color: #ff6600;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+}
+.searchpro{
+    padding: 40px;
+    margin-right: 750px;
+    position: relative;
+    left: 110px;
+}
+
+.browswfma{
+     padding: 30px;
+    margin-left: 800px;
+  position: relative;
+  bottom: 400px;
+  right: 110px;
+} */
